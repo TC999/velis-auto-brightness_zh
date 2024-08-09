@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Additional_brightness">额外亮度</string>
+    <string name="Additional_brightness_permanent">永久额外亮度</string>
+    <string name="Additional_brightness_permanent_desc">无论是否充电，%d 百分比（除了额外充电外）都将添加到计算的亮度中</string>
+    <string name="Additional_brightness_when_charging">充电时增加额外亮度</string>
+    <string name="Additional_percent_to_add">增加额外的百分比</string>
+    <string name="Auto_brightness_blog">自动亮度的博客（www）</string>
+    <string name="Back_camera">后置摄像头</string>
+    <string name="Back_camera_off">未使用后置摄像头</string>
+    <string name="Brightness_change_sensitivity">亮度变化灵敏度</string>
+    <string name="Brightness_preset">亮度预设值</string>
+    <string name="Brightness_sensor">亮度传感器</string>
+    <string name="Brightness_sensor_not_used">未使用亮度传感器</string>
+    <string name="Enjoying_Auto_Brightness">您正在享受自动亮度的强大功能</string>
+    <string name="Front_camera">前置摄像头</string>
+    <string name="Front_camera_off">未使用前置摄像头</string>
+    <string name="Graph_abort_timeout">图形超时放弃</string>
+    <string name="Graph_abort_timeout_off">只有您能取消图形变化</string>
+    <string name="Graph_edit_sensitivity">图形编辑的灵敏度</string>
+    <string name="Graph_edit_sensitivity_off">编辑图形时，移动手柄只会调整当前编辑的取样点。</string>
+    <string name="Graph_settings">图形设置</string>
+    <string name="Missing_fun">已关闭自动亮度</string>
+    <string name="Proximity_sensor">接近传感器</string>
+    <string name="Proximity_sensor_not_used">未使用接近传感器</string>
+    <string name="Sensitivity">灵敏度</string>
+    <string name="Sensors">传感器</string>
+    <string name="Service_activation">服务激活</string>
+    <string name="Smoothing_time">平滑时间</string>
+    <string name="Smoothing_time_down">向下平滑时间</string>
+    <string name="System_brightness_handling_off">系统亮度调节已关闭</string>
+    <string name="System_brightness_handling_on">系统亮度调节已启动并与此应用互相干扰</string>
+    <string name="System_handler">关闭系统调节</string>
+    <string name="abc_action_bar_home_description">导航主页</string>
+    <string name="abc_action_bar_up_description">向上导航</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择一个应用程序</string>
+    <string name="abc_capital_off">关</string>
+    <string name="abc_capital_on">开</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">删除</string>
+    <string name="abc_menu_enter_shortcut_label">进入</string>
+    <string name="abc_menu_function_shortcut_label">功能+</string>
+    <string name="abc_menu_meta_shortcut_label">元+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+ 键</string>
+    <string name="abc_menu_space_shortcut_label">空间</string>
+    <string name="abc_menu_sym_shortcut_label">符号+</string>
+    <string name="abc_prepend_shortcut_label">菜单+</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享给</string>
+    <string name="abc_shareactionprovider_share_with_application">与 %s 共享</string>
+    <string name="abc_toolbar_collapse_description">崩溃</string>
+    <string name="above">高于</string>
+    <string name="accessibility_description">"所有使用无障碍服务权限的目的仅用于向用户提供无障碍功能。
+ 
+提供的辅助功能是自动调节屏幕亮度。
+ 我们会检查当前的热门活动，以确定是否可能被排除在自动亮度调整之外。
+ 我们还会检查屏幕触摸（不是它们的位置）以提供稳定的屏幕功能和类似功能
+ 
+除了提供自动屏幕亮度调节外，不会检查您与设备交互的其他方面进行检查，也不会存储或用于任何其他目的。"</string>
+    <string name="accessibility_disabled">无障碍服务未启用。它是操作所必需的。</string>
+    <string name="accessibility_service_desc">"“自动亮度调节”使用一种特殊的系统服务（称为“辅助功能”）来调整屏幕亮度。无障碍服务对隐私特别敏感，因为它们可以“看到”您可以看到的所有内容，因此需要您在 Android 设置中手动激活。
+ 我们只是使用这种服务来获得一个有效的屏幕覆盖层，这是调整屏幕亮度的方法。
+
+按“是，启用它”进入一个特殊的系统设置页面，在那里您将能够启用该服务。
+ 如果您觉得这对您来说安全风险太大，请按“不，请将其禁用”（自动亮度将不起作用）"</string>
+    <string name="adjust_screen_brightness">调整屏幕亮度</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_language">设置语言</string>
+    <string name="app_name">Velis自动亮度</string>
+    <string name="apply">应用</string>
+    <string name="automatically_start_on_boot">启动时自动启动</string>
+    <string name="back_camera_name">（后置摄像头）</string>
+    <string name="below">低于</string>
+    <string name="below_x_percent">%1$s %2$d %3$s</string>
+    <string name="billing_not_supported_message">市场计费服务目前不可用。您可以继续使用此应用程序，但您将无法进行购买。</string>
+    <string name="billing_not_supported_title">无法进行购买</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_collapse">折叠底栏</string>
+    <string name="bottomsheet_action_expand">展开底部工作表</string>
+    <string name="bottomsheet_action_expand_halfway">中途扩张</string>
+    <string name="bottomsheet_drag_handle_clicked">拖动手柄，双击</string>
+    <string name="bottomsheet_drag_handle_content_description">拖动手柄</string>
+    <string name="brightness_graph">亮度图表</string>
+    <string name="brightness_stats">亮度统计</string>
+    <string name="brightness_update_desc">平滑时屏幕更新之间的 %d 毫秒。减少到 100 毫秒以获得更多响应，增加多达 10000 毫秒以减少对电池的影响</string>
+    <string name="brightness_update_value">亮度更新速率</string>
+    <string name="calculated_screen_brightness">计算屏幕亮度</string>
+    <string name="camera_read_interval">相机读取间隔</string>
+    <string name="camera_read_interval_desc">每 %d 秒从相机拍摄一次新照片</string>
+    <string name="cancel">取消</string>
+    <string name="cannot_connect_message">此应用无法连接到市场。您的 Market 版本可能已过期。您可以继续使用此应用程序，但您将无法进行购买。</string>
+    <string name="cannot_connect_title">无法连接到市场</string>
+    <string name="category_advanced">高级</string>
+    <string name="category_base">简单</string>
+    <string name="change_log" formatted="false">"5.01 (23.1.2023)
+ 修复了设置无法激活透明小部件设置在购买时的问题 修复了三点触控不接受大于 3 的值的问题 修复了应用程序未收到充电器插入/断开连接的通知的问题 5.00 （4.1.2023）
+ 支持单行通知 修复了整数设置未被限制在可接受的范围内的问题 在找到修复之前，Android 11 及更高版本禁用了 Superdim 4.84 （2.1.2023）
+ 很长一段时间后发布 次要通知修复 修复了一些崩溃的问题 排除的应用程序具有 Android 11 支持 修复了手动曲线编辑器选择崩溃的问题 4.70.255 （13.11.2020）
+ 修复了长按配置文件按钮崩溃的问题
+ 修复音量旋钮卡住时间过长的问题
+ 修复更改日志显示
+  4.70.253 (12.11.2020)
+ 修复屏幕旋转时应用程序崩溃的问题
+ 修复了显示最后一个向导页面时应用程序崩溃的问题
+ 修复排除的应用列表
+ 修复 Android 4 兼容性
+ 修复了延迟服务激活（在非 UI 线程上更新）导致的崩溃
+ 放宽无障碍服务活动检查（某些电话报告的活动服务与预期不同）
+  4.70.249 (8.11.2020)
+ 修复一些报告的崩溃
+ Android 6 权限
+ Android 高达 11 兼容性
+ 无障碍服务（更稳定的操作和兼容性）
+ 感谢 Masaki 更新的日语翻译
+ 移除了定制传感器 （SGS 2）
+  4.65.234 (09.09.2017)
+ 修复 Android &lt; 5（对不起）
+ 修复阳光直射问题
+ 修复了小部件图形被清除的问题
+ 修复 Android 8 通知
+  4.65.233 (27.08.2017)
+ 修复了非常高的传感器值（阳光直射）
+ 修复了排除的应用传感器值覆盖（高值）
+ 修复了配置文件按钮菜单颜色的问题
+  4.65.231 (21.08.2017)
+ 修复了排除的应用程序检测中的三星故障
+ 修复设置模式
+ 修复了通知在阳光充足下冻结的问题
+ 更新了俄语翻译
+  4.65.226 (17.07.2017)
+ 更新的意大利语
+ 热门活动检查现在使用的电池电量要少得多（Android 5 及更高版本）
+ 对内部运作进行重大改造。电池使用量也更少
+ 设置：亮度更新间隔：减少更新次数，这将减少电池使用量
+ 设置：屏幕打开时打开 VAB
+ 设置：启用直接防晒霜亮度提升
+ （希望）更具弹性的服务（应减少系统停止的频率）
+ 当从通知应用更改时，它不会在重新启动时丢失
+  4.57.216 (09.06.2016)
+ 小修复
+  4.57.215 (24.04.2016)
+ 修复了缩放显示器上的菜单重叠内容
+  4.57.214 (21.04.2016)
+ 默认相机 API 回到 V1（V2 给人太多麻烦）
+ 导航抽屉在足够宽的显示屏上始终打开
+  4.56.212 (21.02.2016)
+ 将设置拆分为“基本”、“高级”
+ 更新的俄语
+  4.56.210 (8.2.2016)
+ 修复崩溃（向导、主题）
+ 添加对 Android 相机 API v2 的支持（可能更好地与其他相机应用程序共存）
+ 更新的罗马尼亚语
+  4.55.207 (8.1.2016)
+ 修复了 5.0 中排除的应用
+ Widget 会报告未购买的任务者内容，而实际上它是
+ 其他小修复
+  4.55.206 (28.09.2015)
+ 修复了相机首次检测不起作用的问题
+  4.55.205 (14.09.2015)
+ 一些小的调整和修复
+  4.55.204 (09.09.2015)
+ 修复：排除的应用程序适用于 Android 5.1 及更高版本（需要特殊权限）
+  4.50.202 (04.09.2015)
+ VAB 现在可以在棒棒糖的锁屏中工作
+ 更好的 superdim 性能
+ 主题
+  4.22.195 (2.6.2015)
+ 减小了 Android ICS 及更高版本用户的 APK 大小
+  4.21.194 (19.5.2015)
+ 修复：排除的应用程序错误 4.21.193 （16.5.2015）
+ 修复：使用相机作为传感器的棒棒糖用户现在将把锁定屏幕的亮度设置为屏幕开启传感器值覆盖，而不是固定的 80%
+ 添加了所需触摸次数的设置（已固定为 3 次），以在屏幕稳定开启时刷新屏幕亮度
+ 添加 VAB 为排除的应用程序关闭时的亮度设置
+ FIX：按钮的主题设置
+ 修复： RTL 在手动选择的 RTL 语言上不起作用
+ 修复：新应用安装不再显示应用/取消按钮
+ 
+4.20.192 (22.4.2015)
+ 修复：我能得到的棒棒糖锁屏最好的 （sorta works）
+ 
+4.19.191 (21.4.2015)
+ 修复：锁定屏幕后错误的覆盖类型
+ 
+4.18.189 (20.4.2015)
+ 修复棒棒糖锁屏的又一次尝试
+ --这也应该解决离开锁定屏幕后首次读取相机延迟的问题
+ 修复：额外的亮度不起作用
+ 修复：通知已从锁定屏幕中删除
+ 修复： 从棒棒糖状态栏中删除的透明图标
+ 
+4.17.188 (15.2.2015)
+ 固定颜色
+ 
+4.16.187 (5.2.2015)
+ 修复棒棒糖反应迟钝的问题
+ 
+4.15.183 (26.1.2015)
+ 修复某些设备上闪烁的锁定屏幕
+ 修复通知文本颜色
+ 
+4.13.182 (23.1.2015)
+ 锁定屏幕的进一步修复
+ 
+4.12.181 (20.1.2015)
+ 修复棒棒糖中排除的应用程序
+ 修复了当锁定屏幕不在排除的应用中时屏幕开启响应问题的问题
+ 修复屏幕开启覆盖（有时不起作用）
+ 修复在某些情况下自动亮度无响应的问题
+ 修复应用启动时崩溃的问题
+ 
+4.10.180 (18.1.2015)
+ 葡萄牙语 by renatohm
+ 解决棒棒糖问题
+ 迁移到 iab v3
+ 迁移到 Android Studio
+ 应用程序中的所有图像现在都是矢量的
+ 
+4.01.179 (5.6.2014)
+ 更新了俄语翻译
+ 
+4.01.177 (4.6.2014)
+ 新翻译：希腊语 by pugsang
+ 修复：稳定屏幕功能现在更加稳定
+ 
+4.00.175 (7.4.2014)
+ 修复：按下时通知未正确更新确认/取消按钮
+ 修复：通过Play商店报告了一些崩溃。这样可以修复它们
+ 
+4.00.169 (6.3.2014)
+ 触摸屏幕时，亮度在指定时间内不会更新（新设置 - 也在向导中）
+ 当 VAB 是最前面的应用时，上述设置未激活
+ 通知至少每 5 秒更新一次（现在更精确）
+ 无条件的额外亮度
+ 额外亮度接受负数（会降低亮度）
+ 修复：向导返回按钮现在实际上有效 + 向导页数修复
+ 修复：向导后，设置屏幕刷新以正确显示所选值
+ 
+3.60.166 (24.2.2014)
+ 可折叠的设置组，便于导航
+ 排除的应用内存和性能改进
+ 修复：当传感器返回 0 时，某些应用程序功能无法正常工作
+ 修复：有时更改配置文件无法正常工作
+ 
+3.60.164 (15.2.2014)
+ 添加了尝试减少某些设备中不稳定的传感器读数的选项（最明显的是 SGS 3 和 Note 2）
+ 关闭 Android 4.3 及更高版本的交互式通知现在是常规设置选项
+ 修复：手动图形编辑不适用于许多区域设置
+ 
+3.55.163 (11.2.2014)
+ 修复：优化后未使用最低亮度点
+ 
+3.55.162 (11.2.2014)
+ 菜单键现在打开菜单
+ 应用标题栏现在显示有一个菜单要打开（并打开它）
+ 浮点照度值：对于低传感器读数，精度更高
+ 一些电池使用优化
+ 相机现在支持抓取间隔设置
+ 新语言：荷兰语，感谢Maardiweb
+ 
+3.55.161 (10.2.2014)
+ 为主屏幕和通知添加了当前亮度
+ 修复：侧菜单现在以 android 标准方式实现（从左/右滑动）
+ FIX：Galaxy Note 10.1 上的 FC （http://stackoverflow.com/questions/19037164/invalid-int-on-xml-android-color-file-when-launched-on-a-galaxy-tab）
+ FIX：无数曾经奏效或从未奏效的小事
+ 
+3.55.158 (7.2.2014)
+ 完全重新设计的读数插值器。减少电池使用量，修复大量与平滑相关的错误
+ 修复：如果服务关闭，相机现在将停止读取
+ 修复：停止 VAB 现在会完全删除覆盖层。当 VAB 打开并仍保持亮度时，应该可以减少某些设备上的问题
+ 
+3.55.153 (11.11.2013)
+ 轻微的视觉故障修复
+ 交互式通知 - 仅在设置了自定义亮度后显示按钮
+ Android 4.3+ 没有通知选项
+ 越南语 by Vu Hien
+ 
+3.50.149 (1.11.2013)
+ 通过片段的用户界面
+ 
+3.15.142 (16.10.2013)
+ 修复了某些手机型号中错误的EXIF记录
+ 中文：Jinran Lin
+ 
+3.15.141 (8.10.2013)
+ 交互式通知
+ 启动器小部件现在也可以呈现透明
+ 
+3.10.137 (4.8.2013)
+ 软件包安装程序问题的可能良好修复
+ SGS3 mini定制ROM摄像头检测修复
+ 
+3.10.135 (23.6.2013)
+ 内核传感器读卡器现在更安全 + 0 读数是有效读数
+ 主屏幕 VAB 开/关现在可以正确反映服务状态
+ “排除的应用”现在会在列表顶部显示以前选择的应用
+ 启动器小部件文本强制变为白色
+ 
+3.08.133 (22.6.2013)
+ 修复：在某些手机上，排除的应用程序列表中的颜色会很奇怪
+ 屏幕关闭时不再破坏覆盖层，以消除屏幕开启的延迟
+ SGS 2 现在具有内核传感器读取模式，可启用整个传感器范围，而不仅仅是 1、10、100、1000
+ 
+3.08.131 (18.6.2013)
+ 向导现在建议在没有光传感器的情况下打开相机支持
+ 相机支持修复：
+ - 前置摄像头（如果前置摄像头不存在，则为后置摄像头）自动激活
+ - 修复：检测到摄像头，但设置屏幕显示没有摄像头
+ - 修复：关闭屏幕时，最后一个传感器读数将设置为 0
+ 修复：有时应用程序会从排除列表中消失
+ 修复：当屏幕打开并变成排除的应用程序时，VAB 仍会激活
+ 
+3.05.125 (23.5.2013)
+ 修复：摄像头检测现在应该更强大
+ 修复：默认情况下，排除的应用程序为空，仅在启用 superdim 时添加 APK 安装程序
+ 修复：排除的应用程序列表不会被排序
+ FIX：使用更多相机模型的相机图像分析更强大
+ 更新翻译：德语
+ 
+3.05.122 (9.4.2013)
+ 当超调光阈值设置为 100% 时，它成为调节屏幕亮度的唯一方法。使某些手机（SGS3、GNex 4 等）的亮度调整更加顺畅。由于此方法是完全线性的，因此建议使用更亮的预设，否则屏幕可能会变得太暗。
+ 禁用时完全删除亮度窗口。在某些手机上禁用 VAB 时，应该可以解决系统亮度问题。
+ 修复图形预设，使右边缘的图形调整行为正常
+ 修复了图形边缘的奇怪图形行为
+ 添加了图形调整灵敏度设置，以提高图形调整的精度
+ 在图形中绘制超暗阈值（目前非用户交互）
+ 
+3.00.118 (27.3.2013)
+ 修复由于相机权限而导致的设备排除项
+ 设置向导不再清除已保存的配置文件
+ - 设置向导在新安装时不再多次启动
+ - 修复设置向导的灵敏度预设
+ S 曲线图不再超出图形边界进行渲染
+ 更新翻译：斯洛伐克语
+ 
+3.00.116 (25.3.2013)
+ 修复应用崩溃
+ 
+3.00.114 (24.3.2013)
+ 缩短平滑间隔，以减少高端手机上的闪烁
+ 图形周期不得设置为 0（如果为 0，则会崩溃）
+ 初步的相机支持。有关详细信息，请参阅 XDA 线程
+ 
+2.82.103 (17.2.2013)
+ 添加翻译：捷克语
+ 
+2.82.102 (15.2.2013)
+ 修复了应用服务在弹出窗口处于活动状态时自行禁用的问题
+ 
+2.81.101 (11.2.2013)
+ 自定义应用语言选择
+ 排除的应用程序（当排除的应用程序位于顶部时，将禁用 VAB）
+ 超级调光：除了背光外，还增加了一个屏幕滤镜，以获得更深的黑色
+ 单独设置调光时的平滑时间
+ Android 2.1 和 2.2 兼容性修复（商店仍然永远不会在 2.3 以下工作）
+ 
+2.81.95 (9.2.2013)
+ 恢复到 2.31.84 （13.1.2013） - 在屏幕过滤器之前 - 以解决一些问题
+ 自 2.31.84 以来的所有更新都暂时禁用
+ 将再次添加，因为它们被消除为检测到的问题的可能原因
+ 
+2.81.94 (9.2.2013)
+ Android 2.1 和 2.2 兼容性修复（商店仍然永远不会在 2.3 以下工作）
+ 排除的应用列表 FC 修复
+ 
+2.81.92 (9.2.2013)
+ 修复排除的应用程序对话框（更流畅地加载应用程序）
+ 添加 superdim 激活亮度检查
+ 更新翻译：波斯文、斯洛文尼亚文
+ 
+2.80.90 (2.2.2013)
+ 自定义应用语言选择
+ 排除的应用程序（当排除的应用程序位于顶部时，将禁用 VAB）
+ 超级调光：除了背光外，还增加了一个屏幕滤镜，以获得更深的黑色
+ 单独设置调光时的平滑时间
+ 启动器小部件默认为 4 个插槽宽
+ 
+2.31.86 (17.1.2013)
+ 滤网，产生更深的黑色
+ 更新翻译：波斯文
+ 
+2.31.84 (13.1.2013)
+ 小错误修复
+ 
+2.31.82 (12.1.2013)
+ 亮度图渲染速度更快（主屏幕上的 CPU 使用率更低）
+ 修复了平滑打嗝问题。图形现在是黄油般光滑的
+ 仅在屏幕开启后使用样品
+ 将 S 曲线图添加到预设
+ 更新翻译：斯洛伐克文、斯洛文尼亚文
+ 
+2.30.80 (6.1.2013)
+ 启动器小部件
+ 修复图形边缘的图形调整
+ 将设置清除为默认值（当向导启动时）
+ 
+2.20.76 (2.12.2012)
+ 修复景观
+ 修复传感器卡住的问题
+ 修复了即使在服务禁用时仍保持亮度的问题
+ 
+2.20.74 (21.11.2012)
+ 应用程序将加载自定义翻译字符串（帮助翻译人员完成工作，请参阅应用程序主页以获取说明）
+ 更新翻译：挪威语、意大利语、斯洛文尼亚语
+ 
+2.20.72 (14.11.2012)
+ 设置向导
+ 如果禁用自动亮度，服务将在一分钟后停止
+ 支持Sony Xperia的专有传感器解决方案
+ 更好的 LTR 语言支持
+ 更新翻译：德文、波斯文、斯洛伐克文、西班牙文
+ 
+2.02.64 (30.10.2012)
+ 向应用程序菜单添加了指向手册和更改日志的链接
+ Screen_on传感器覆盖值（从亮室到暗室）
+ 平滑覆盖设置（当光线变化太大时，它将跳到新值）
+ 更新系统亮度设置的设置
+ 修复接近传感器操作
+ 修复（希望）图表仍然停留在某个读数上
+ 更好的日志记录（长按邻近读数值以设置级别 0 - 9）
+ 手动将图形编辑为文本
+ 添加了在程序启动时显示更改日志的功能
+ 更新翻译：斯洛文尼亚文、德文
+ 添加的语言：匈牙利语
+ 
+2.00.61 (26.10.2012)
+ 修复应用内结算问题
+ 更新翻译：德文
+ 
+2.00.59 (26.10.2012)
+ Tasker / locale 支持
+ 应用内结算
+ 更新翻译：斯洛文尼亚文、德文、西班牙文
+ 
+1.20.55 (22.10.2012)
+ 防止夜间服务终止的第一次微弱尝试
+ 更好的接近传感器处理
+ 启用 proguard 以使 apk 更小，代码更快一些
+ 为tasker和应用内商店做准备的中间发布
+ 新增语言：俄语、日语、波兰语
+ 更新翻译：斯洛伐克文、斯洛文尼亚文
+ 
+1.20.49
+ 更新翻译：法文、挪威文、德文
+ 删除不会再次使用的字符串
+ 修复了图形按钮中的轨道光在不修改图形的情况下出现的问题
+ 关于对话框的小修复
+ 添加的语言：波斯语
+ 
+1.20.46 (13.10.2012)
+ 更新了西班牙语和挪威语的翻译
+ 修复了一些未翻译的字符串（翻译者的新字符串）
+ 添加了关于对话框以检查当前版本
+ 现在，应用图形点可以消除近邻和重复项
+ 所有新的自定义设置屏幕 - 应该更具可读性
+ 支持的语言：法语
+ 
+1.10.40 (9.10.2012)
+ 进一步优化以降低电池消耗
+ 不再更新 android 亮度（只是一个装饰品，结果证明会使用大量 CPU）
+ 将最后一个传感器值保存间隔缩短至一分钟，以节省更多电池
+ 支持的语言：斯洛伐克语、西班牙语、挪威语（经典和博克马尔语）
+ 
+1.10.37 (8.10.2012)
+ 减小了横向模式下的图形大小，使其适合屏幕
+ 支持的语言：德语、立陶宛语
+ 
+1.10.36 (7.10.2012)
+ StartSensors 检查屏幕关闭 - 在屏幕关闭时消除传感器时间
+ 在服务关闭时保存当前传感器值 - 在服务重新启动时加载它
+ 将“系统处理程序”文本更改为“禁用系统处理程序”。先前的含义恰恰相反
+ 现在，选择预设或配置文件会再次刷新图表
+ 支持的语言：意大利语
+ 
+1.10.34 (5.10.2012)
+ 有时，在光线不足的条件下，亮度会无缘无故地降至最低
+ 修复了（拔下）电源无法立即调整亮度的情况。
+ 修复了服务激活开关未正确关闭系统自动亮度的问题。
+ 修复了需要 Android 2.3 的类 - 回到 2.1 支持
+ 翻译支持
+ 支持的语言：斯洛文尼亚语
+ 
+1.10.32 (4.10.2012)
+ 不再有传感器读数
+ （再次）更改应用程序描述以取悦竞争对手
+ 
+1.10.31 (3.10.2012)
+ 电池使用修复。这应该会大大减少电池的使用量
+ 
+1.10.26 (2.10.2012)
+ 固定灵敏度阈值
+ 删除了不必要的计算
+ 优化的移动平均程序
+ 更低的功耗
+ 更改应用程序描述以取悦竞争对手
+ 
+1.10.24 (1.10.2012)
+ 在应用程序首次启动时修复 FC
+ 修复平均功能
+ 
+1.10.21 (1.10.2012)
+ 配置文件（将亮度图保存在您自己选择的名称下）
+ 抖动控制，防止过度亮度更新
+ 亮度平滑，使过渡更平滑
+ 小错误/功能修复
+ 
+1.0.20 (30.9.2012)
+ 首次 Google Play 发布
+ 
+1.0.0 (12.8.2012)
+ 开发开始
+ "</string>
+    <string name="changelog">更改日志</string>
+    <string name="changelog_www">更改日志 （www）</string>
+    <string name="character_counter_content_description">输入的字符 %1$d / %2$d</string>
+    <string name="character_counter_overflowed_content_description">字符限制超过 %2$d / %1$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">清除文字</string>
+    <string name="copyright">© Jure Erznožnik</string>
+    <string name="current_brightness">当前屏幕亮度</string>
+    <string name="current_lux_value">当前光读数</string>
+    <string name="current_proximity_value">当前邻近读数</string>
+    <string name="de_activate_system_auto_brightness">（取消）激活系统自动亮度调节</string>
+    <string name="default_ringtone">默认值（%s）</string>
+    <string name="defibrilator_active">连续交替传感器读数将被忽略</string>
+    <string name="defibrilator_inactive">无需固定稳定的传感器读数</string>
+    <string name="detect_screen_touches_for_steady_screen_functionality">检测屏幕触摸以实现稳定的屏幕功能</string>
+    <string name="detect_top_running_app_permission">检测运行最热门的应用</string>
+    <string name="differently_handle_apps_permission">以不同的方式处理您选择的应用程序</string>
+    <string name="disable_for_system_apps_permission">关闭以允许您向其他应用授予权限</string>
+    <string name="disable_on_sun">使用设备的增强亮度</string>
+    <string name="disable_on_sun_desc">当测得的亮度高于 %d 勒克斯时，系统自动亮度将被激活以提供阳光下屏幕亮度提升</string>
+    <string name="disable_on_sun_desc0">该设备没有阳光屏幕亮度提升</string>
+    <string name="done">完成</string>
+    <string name="drawer_close">抽屉关闭</string>
+    <string name="drawer_open">抽屉打开</string>
+    <string name="enable_auto_brightness">自动亮度</string>
+    <string name="enable_superdim_functionality">启用 SuperDim 功能</string>
+    <string name="enter_preset_name">输入配置文件名称</string>
+    <string name="error_a11y_label">错误：无效</string>
+    <string name="error_connection">"无法联系服务器。
+单击以重试。"</string>
+    <string name="error_icon_content_description">错误</string>
+    <string name="excluded_apps">排除的应用</string>
+    <string name="exposed_dropdown_menu_content_description">显示下拉菜单</string>
+    <string name="extra_add_percent_of_calculated_brightness">将计算出的亮度的百分比相加</string>
+    <string name="extra_add_percent_of_full_brightness">添加全亮度的百分比</string>
+    <string name="extra_combined_calculated_and_full_brightness">组合：计算和全亮度</string>
+    <string name="extra_no_extra_brightness">没有额外的亮度</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="front_camera_name">（前置摄像头）</string>
+    <string name="get_tasks_notify">Android 5.1 及更高版本需要特殊的系统权限才能确定最热门的运行活动。按“应用”进入一个特殊的系统设置页面，您可以在其中向此应用程序授予此权限，或者如果您不想使用“排除的应用程序”功能，请“取消”。</string>
+    <string name="go_to_settings_page">去那里</string>
+    <string name="graph_abort_timeout_summary">在上次更改后等待 %d 秒，然后再恢复到原始值</string>
+    <string name="graph_edit">手动图形编辑</string>
+    <string name="graph_edit_err_0">第一个点必须始终是 0 lux</string>
+    <string name="graph_edit_err_point">输入的一个或多个点无效。图表可能不完整。</string>
+    <string name="graph_edit_sensitivity_summary">编辑亮度图时，拖动手柄周围的点将受到影响，最多占总宽度的 %d 百分比</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="icon_content_description">对话框图标</string>
+    <string name="inapp_store">应用内商店</string>
+    <string name="item_view_role_description">标签</string>
+    <string name="lang_system_default">系统默认语言</string>
+    <string name="loading_data">加载数据</string>
+    <string name="lux_sensor_access">照度传感器的接入方法</string>
+    <string name="m3_sys_motion_easing_emphasized">路径（M 0,0 C 0.05， 0， 0.133333， 0.06， 0.166666， 0.4 C 0.208333， 0.82， 0.25， 1， 1， 1）</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">立方贝塞尔（0.3， 0.0， 0.8， 0.2）</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">立方贝塞尔（0.1， 0.7， 0.1， 1.0）</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">立方-贝塞尔（0.4， 0.0， 0.2， 1.0）</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">立方-贝塞尔（0.4， 0.0， 1.0， 1.0）</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">立方-贝塞尔（0.0， 0.0， 0.2， 1.0）</string>
+    <string name="m3_sys_motion_easing_linear">立方-贝塞尔（0.0， 0.0， 1.0， 1.0）</string>
+    <string name="m3_sys_motion_easing_standard">立方贝塞尔（0.2， 0.0， 0.0， 1.0）</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">立方贝塞尔（0.3， 0.0， 1.0， 1.0）</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">立方贝塞尔（0.0， 0.0， 0.0， 1.0）</string>
+    <string name="main_form">主图表</string>
+    <string name="manual_www">使用手册 （www）</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">选择“上午”或“下午”</string>
+    <string name="material_hour_selection">选择小时</string>
+    <string name="material_hour_suffix">%1$s 小时</string>
+    <string name="material_minute_selection">选择分钟数</string>
+    <string name="material_minute_suffix">%1$s 分钟</string>
+    <string name="material_motion_easing_accelerated">立方-贝塞尔（0.4， 0.0， 1.0， 1.0）</string>
+    <string name="material_motion_easing_decelerated">立方-贝塞尔（0.0， 0.0， 0.2， 1.0）</string>
+    <string name="material_motion_easing_emphasized">路径（M 0,0 C 0.05， 0， 0.133333， 0.06， 0.166666， 0.4 C 0.208333， 0.82， 0.25， 1， 1， 1）</string>
+    <string name="material_motion_easing_linear">立方-贝塞尔（0.0， 0.0， 1.0， 1.0）</string>
+    <string name="material_motion_easing_standard">立方-贝塞尔（0.4， 0.0， 0.2， 1.0）</string>
+    <string name="material_slider_range_end">范围结束，</string>
+    <string name="material_slider_range_start">范围起始，</string>
+    <string name="material_timepicker_am">上午</string>
+    <string name="material_timepicker_clock_mode_description">切换到时间输入的时钟模式。</string>
+    <string name="material_timepicker_hour">小时</string>
+    <string name="material_timepicker_minute">分钟</string>
+    <string name="material_timepicker_pm">下午</string>
+    <string name="material_timepicker_select_time">选择时间</string>
+    <string name="material_timepicker_text_input_mode_description">切换到时间输入的文本输入模式。</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_settings">设置</string>
+    <string name="mtrl_badge_numberless_content_description">新通知</string>
+    <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
+    <string name="mtrl_checkbox_button_icon_path_group_name">图标</string>
+    <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
+    <string name="mtrl_checkbox_button_icon_path_name">图标路径</string>
+    <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
+    <string name="mtrl_checkbox_button_path_group_name">按钮</string>
+    <string name="mtrl_checkbox_button_path_name">按钮路径</string>
+    <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
+    <string name="mtrl_checkbox_state_description_checked">检查</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">部分检查</string>
+    <string name="mtrl_checkbox_state_description_unchecked">未选中</string>
+    <string name="mtrl_chip_close_icon_content_description">删除 %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">超过 %1$d 的新通知</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">更改为下个月</string>
+    <string name="mtrl_picker_a11y_prev_month">与上月相比的变化</string>
+    <string name="mtrl_picker_announce_current_selection">当前选择： %1$s</string>
+    <string name="mtrl_picker_cancel">取消</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">选择日期</string>
+    <string name="mtrl_picker_date_header_unselected">已选日期</string>
+    <string name="mtrl_picker_day_of_week_column_header">天数列： %1$s</string>
+    <string name="mtrl_picker_invalid_format">格式无效。</string>
+    <string name="mtrl_picker_invalid_format_example">示例：%1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用： %1$s</string>
+    <string name="mtrl_picker_invalid_range">范围无效。</string>
+    <string name="mtrl_picker_navigate_to_year_description">导航到年份 %1$s</string>
+    <string name="mtrl_picker_out_of_range">超出范围： %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">开始日期 – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – 结束日期</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">选择范围</string>
+    <string name="mtrl_picker_range_header_unselected">开始日期 – 结束日期</string>
+    <string name="mtrl_picker_save">保存</string>
+    <string name="mtrl_picker_text_input_date_hint">日期</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">结束日期</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">开始日期</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">切换到日历输入模式</string>
+    <string name="mtrl_picker_toggle_to_day_selection">点击以切换到选择日期</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">切换到文本输入模式</string>
+    <string name="mtrl_picker_toggle_to_year_selection">点击以切换到选择年份</string>
+    <string name="mtrl_switch_thumb_group_name">circle_group</string>
+    <string name="mtrl_switch_thumb_path_checked">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
+    <string name="mtrl_switch_thumb_path_morphing">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
+    <string name="mtrl_switch_thumb_path_name">圈</string>
+    <string name="mtrl_switch_thumb_path_pressed">M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16</string>
+    <string name="mtrl_switch_thumb_path_unchecked">M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16</string>
+    <string name="mtrl_switch_track_decoration_path">M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
+    <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
+    <string name="mtrl_timepicker_cancel">取消</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <string name="navigation_drawer_open">打开导航抽屉</string>
+    <string name="new_lux_point">新的轻盈点插件</string>
+    <string name="new_preset">新配置文件</string>
+    <string name="next">下一个</string>
+    <string name="no_items">暂无项目</string>
+    <string name="no_leave_disabled">不，请将其禁用</string>
+    <string name="no_profiles_stored">未存储任何配置文件</string>
+    <string name="no_sensor">您的设备中似乎没有传感器</string>
+    <string name="notification_hidden">隐藏通知</string>
+    <string name="notification_interactive">交互式通知显示并允许您更改当前亮度。如果未确认，该设置将一直保持到第一个屏幕关闭</string>
+    <string name="notification_type">交互式通知</string>
+    <string name="notification_warning">"您的 android 版本高于或等于 4.3。由于 Android 的工作方式，需要通知或应用程序将在随机时间终止。如果您希望通知消失，该应用程序将通过每 500 毫秒检查一次其状态来尽力保持活动状态（可能会对电池产生一些影响），但是仍可能存在系统暂时终止应用程序的情况。
+另请启用可选的系统亮度更新，以最大程度地减少此类终止的不良影响。"</string>
+    <string name="off">关</string>
+    <string name="ok">OK</string>
+    <string name="on">开</string>
+    <string name="optionally_adjust_system_brightness">可选择调整系统亮度</string>
+    <string name="password_toggle_content_description">显示密码</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="perm_explanation">权限说明</string>
+    <string name="perm_grant_mandatory">此权限对于应用程序操作至关重要。没有它，应用程序的核心功能将不可用。请立即授予。</string>
+    <string name="perm_grant_optional">请立即授予权限或在设置中禁用这些功能。</string>
+    <string name="perm_grant_optional_non_settable">如果您想使用这些功能，请授予权限。</string>
+    <string name="perm_rationale_html">此应用中需要权限 %s 才能：</string>
+    <string name="preset_AMOLED">AMOLED</string>
+    <string name="preset_AMOLED_bright">AMOLED 亮</string>
+    <string name="preset_AMOLED_dim">AMOLED 暗</string>
+    <string name="preset_S_Curve">S-曲线</string>
+    <string name="preset_TFT_bright">TFT 亮</string>
+    <string name="preset_TFT_normal">TFT 标准</string>
+    <string name="preset_custom">自定义</string>
+    <string name="preset_name">档案名称</string>
+    <string name="previous">上一步</string>
+    <string name="price_coupon_only">"赎回
+息票"</string>
+    <string name="profile">档案</string>
+    <string name="profile_context_delete">删除档案</string>
+    <string name="profile_context_save">保存档案</string>
+    <string name="receiver_name">Velis自动亮度接收器</string>
+    <string name="saving_data">保存数据</string>
+    <string name="screen_brightness">屏幕亮度</string>
+    <string name="screen_on">屏幕开启</string>
+    <string name="screen_on_override">忽略屏幕开关传感器值</string>
+    <string name="screen_on_override_desc">屏幕开启时，调节亮度以符合传感器读数%d</string>
+    <string name="screen_on_override_desc0">忽略传感器值已关闭</string>
+    <string name="screen_touch_interval">屏幕触摸 - 屏幕稳定</string>
+    <string name="screen_touch_interval_desc">触摸屏幕时，%d 秒内不要更改屏幕亮度</string>
+    <string name="screen_touch_none">当触摸屏幕时，亮度会正常更新</string>
+    <string name="screen_touch_recalc">稳定的屏幕更新亮度</string>
+    <string name="screen_touch_recalc_desc">当稳定的屏幕打开并且您快速点击 %d 次 - 亮度将立即更新</string>
+    <string name="screen_touch_recalc_none">当屏幕常亮时，亮度无法快速更新</string>
+    <string name="screen_touch_wizard">"该应用程序可以在您触摸屏幕时停止更新屏幕亮度。这样可以减少使用设备时的干扰。
+是否要启用此功能？"</string>
+    <string name="screen_touch_wizard_no">不，我喜欢我的亮度响应</string>
+    <string name="screen_touch_wizard_yes">是，屏幕常亮</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="select_profile">选择档案</string>
+    <string name="sensitivity_avg_down_none">亮度降低平滑和常规平滑时间相同</string>
+    <string name="sensitivity_avg_down_summary">当屏幕亮度降低，%d毫秒后启用平滑</string>
+    <string name="sensitivity_avg_none">亮度变化未被平滑</string>
+    <string name="sensitivity_avg_summary">亮度变化平滑时长%d毫秒</string>
+    <string name="sensitivity_jitter_summary">光线变化百分之%d后启动服务</string>
+    <string name="sensitivity_jitter_summary0">服务对环境光线的任何轻微变化做出反应</string>
+    <string name="sensor_defibrilator">修复传感器读数不稳定问题</string>
+    <string name="sensor_not_detected">"您的设备没有光传感器。是否启用摄像头支持？
+注意摄像头支持尚在试验阶段，可能在您的设备上工作不正常。使用摄像头作为光传感器可能消耗电量并影响其他应用使用摄像头。"</string>
+    <string name="service_name">Velis自动亮度服务</string>
+    <string name="settings_displayed">设置模式</string>
+    <string name="settings_general">常规</string>
+    <string name="settings_wizard">运行设置向导</string>
+    <string name="smoothing_override">忽略平滑</string>
+    <string name="smoothing_override_desc">当光线变化超过百分之%d，立刻调整亮度而忽略平滑</string>
+    <string name="smoothing_override_desc0">忽略平滑已关闭</string>
+    <string name="start_on_screen_on">屏幕打开时开始</string>
+    <string name="start_on_screen_on_desc_off">屏幕打开时，自动亮度激活不会改变</string>
+    <string name="start_on_screen_on_desc_on">当您打开屏幕时，即使您之前已禁用它，自动亮度也会开始</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_buy">购买</string>
+    <string name="store_desc">您可以在这里购买高级功能并且（或者）捐助本应用的开发。请注意：捐助应用开发并不能给您在使用本应用上带来直接受益。</string>
+    <string name="store_error">存储错误</string>
+    <string name="store_error_purchase_start_failed">购买失败。请重试或向开发人员报告问题（使用 logcat 输出）</string>
+    <string name="store_item">产品</string>
+    <string name="store_item_dev_support">开发者支持</string>
+    <string name="store_item_dev_support_desc">您可以按您的意愿多次捐助。每次捐助都会在已购买产品中列出。</string>
+    <string name="store_item_proj_support">项目支持单位</string>
+    <string name="store_item_proj_support_desc">适用于已获得优惠券的项目贡献者。打开应用程序中的所有功能，甚至是引入的未来高级功能。</string>
+    <string name="store_item_tasker">Tasker，启动器小部件</string>
+    <string name="store_item_tasker_desc">Tasker/位置支持，启动器小部件附加设备。购买后，您将可使用这部分高级功能（当可用时）。</string>
+    <string name="store_purchased">已购买的产品</string>
+    <string name="store_ready">支持安卓应用商店</string>
+    <string name="store_restoring">通过应用商店查询已购买的产品</string>
+    <string name="store_welcome">欢迎光临Velis自动亮度商店</string>
+    <string name="superdim_cancel">当前设置可能导致屏幕亮度低于安全可视的阈值（百分之%.2f）。极暗不会被启用。请在一个较亮的环境下或在较亮的预设值下启动当前设置。</string>
+    <string name="superdim_desc">当屏幕亮度下降到百分之%d时启动极暗。</string>
+    <string name="superdim_desc0">极暗已关闭。警告：如果您正在使用很低的亮度，极暗可能导致屏幕过暗以影像阅读。在启用极暗前选择一个较亮的预设值。</string>
+    <string name="superdim_threshold">极暗的阈值</string>
+    <string name="support_devices_boost_brightness">"支持设备的提升亮度"</string>
+    <string name="tasker_not_bought">未购买Tasker功能</string>
+    <string name="tasker_not_bought_desc">"Tasker/位置状态和设置是高级功能。如果您希望使用此功能，请到应用内商店购买。
+感谢！"</string>
+    <string name="theme">主题</string>
+    <string name="theme_accent_colour">强调色</string>
+    <string name="theme_base_colour">基本主题颜色</string>
+    <string name="theme_dark">深色主题</string>
+    <string name="title_activity_auto__brightness">自动亮度</string>
+    <string name="top_run_perm">"Android 5.1 及更高版本需要特殊的系统权限才能确定最热门的运行活动。
+这是特殊系统应用程序（如Package Installer（向应用程序授予权限）或当您不需要自动亮度时（例如在视频播放器应用程序中等）所必需的。
+按“是，启用它”进入一个特殊的系统设置页面，您可以在其中向此应用程序授予此权限，或者如果您不想使用“排除的应用程序”功能（不推荐），请按“不，禁用它”。"</string>
+    <string name="track_light_graph">在图形中跟踪光源</string>
+    <string name="translate_kudos">"
+ * 英语 - 基本语言
+ * 中文作者：Jinran Lin &amp; TC999
+ * 捷克语，作者：Holly Hell
+ * 荷兰语，作者：Maardiweb
+ * 法语，作者：Pims83 
+ * 意大利语，作者：siggey
+ * 德语，作者：Chef Koch
+ * 希腊语，作者：pugsang
+ * 匈牙利语，作者：XT69
+ * 日语，Magus &amp; Masaki
+ * 立陶宛语，作者：cukierkas
+ * 挪威语，作者：MrMastodon
+ * 波斯语，阿里雷扎·阿夫卡 (Alireza Afkar)
+ * 波兰语，作者：trur3 
+ * 葡萄牙语，作者：renatohm
+ * 罗马尼亚语，作者：rapttorx
+ * 维基百科和 Gaich 提供的俄语
+ * 斯洛伐克语，作者：kubics
+ * 斯洛文尼亚
+ * UnderXP 的西班牙语
+ * Vu Hien 的越南语
+"</string>
+    <string name="unit_cm">厘米</string>
+    <string name="unit_lux">勒克斯</string>
+    <string name="unit_mA">毫安</string>
+    <string name="unit_percent">%</string>
+    <string name="update_system">可选择的更新系统亮度设置</string>
+    <string name="update_system_off">不更新系统亮度设置</string>
+    <string name="update_system_on">系统亮度实时更新以符合当前应用的亮度。完全是美化功能。可能导致轻微电量消耗。</string>
+    <string name="update_system_only">仅使用系统亮度进行亮度调整</string>
+    <string name="update_system_only_off">亮度调整将通过覆盖窗口进行。需要特殊许可。</string>
+    <string name="update_system_only_on">没有覆盖！适用于许多新设备。如果打开此功能后屏幕亮度没有更新，则您的设备不支持此功能。</string>
+    <string name="update_system_range">系统亮度最大值</string>
+    <string name="update_system_range_desc">设置为 %d 时，屏幕最亮</string>
+    <string name="use_cameras_permission">使用设备的摄像头作为确定环境亮度的方法</string>
+    <string name="vab_off_override">排除的应用传感器值覆盖</string>
+    <string name="vab_off_override_desc">当 VAB 为排除的应用程序停用时，亮度将设置为与传感器读数 %d 匹配</string>
+    <string name="vab_off_override_desc0">让系统设置在 VAB 停用时调整屏幕亮度</string>
+    <string name="widget_color">透明的小部件</string>
+    <string name="widget_graph_time">小部件图形时间周期</string>
+    <string name="widget_graph_time_desc">小部件图形将显示最近%d秒内的亮度值。注意：如果下调该值到低于600（10分钟）可能造成严重的电量消耗。</string>
+    <string name="widget_graph_time_desc0">小部件图形已关闭</string>
+    <string name="widget_not_bought">尚未购买启动器小部件内容</string>
+    <string name="widget_not_bought_desc">"启动器小部件操作是高级功能。如果您想使用此功能，请到应用内商店购买。
+感谢！"</string>
+    <string name="widget_opaque">主屏幕小部件将被渲染为不透明</string>
+    <string name="widget_params">启动器小部件参数</string>
+    <string name="widget_samples">小部件图形示例</string>
+    <string name="widget_samples_desc">小部件图形的样本数量设置为%d。高屏幕分辨率请增加，低屏幕分辨率请降低。</string>
+    <string name="widget_stats">小部件图形统计信息百分比</string>
+    <string name="widget_stats_desc">亮度统计信息将会以图形时间周期显示并拆分成百分之%d的样本。</string>
+    <string name="widget_transparent">主屏幕小部件将被渲染为透明</string>
+    <string name="wizard_brightness">"您希望屏幕有多大亮度？ 
+
+下面的亮度预设值从亮到暗排列。 
+请为您的屏幕选择一个起始预设值。 
+"</string>
+    <string name="wizard_charging">接通电源时是否开启额外亮度？</string>
+    <string name="wizard_done_1">您已完成初始设置。</string>
+    <string name="wizard_done_2">"
+（滚动此对话页面以查看更多内容）
+
+"</string>
+    <string name="wizard_done_3">亮度调节并不只限这些。如果您需要更多设置，可以通过拖动红色的长条/手柄调整图形，直到您对结果完全满意。如果这样调整图形不够精确，还可以在主界面菜单中以文本形式编辑图形取样点。</string>
+    <string name="wizard_done_4">"您可以尝试拖动上图中的手柄来感受亮度变化。注意红色长条右侧和底部稍粗的部分是手柄。 
+
+当您满意后可以将图形保存为档案以便快速选择。 
+
+如需更多详细说明，请阅读使用手册。手册的链接在主界面菜单选项中。您也可以点击此处提供的链接。"</string>
+    <string name="wizard_enable">"您希望开始使用自动亮度吗？ 
+
+您刚才完成的设置将会保留，但只有开启自动亮度后才会生效。"</string>
+    <string name="wizard_enable_no">不，我想先了解其他设置</string>
+    <string name="wizard_enable_yes">是，启用</string>
+    <string name="wizard_intro">"欢迎使用Velis自动亮度。 
+
+本向导将帮助您完成应用的初始设置。 
+
+所有在向导中完成的设置，您都可以在以后通过设置界面进行完善或修改。 
+
+请点击“下一步”开始设置您的设备。"</string>
+    <string name="wizard_sensitivity">"您希望应用对光线变化的灵敏度多高？ 
+
+较高的灵敏度提供较快和较精确的反应，但可能造成一些闪烁。 
+较低的灵敏度导致较慢的反应并且只在光线巨大变化时反应，但可以减少闪烁。 
+"</string>
+    <string name="wizard_sensitivity_high">高灵敏度</string>
+    <string name="wizard_sensitivity_low">低灵敏度</string>
+    <string name="wizard_sensitivity_med">中灵敏度</string>
+    <string name="wizard_title">设置向导 %1$d/%2$d</string>
+    <string name="www_changelog">http://velisthoughts.blogspot.com/2012/10/velis-auto-brightness-changelog.html</string>
+    <string name="www_homepage">http://velisthoughts.blogspot.com/2012/09/velis-auto-brightness.html</string>
+    <string name="www_manual">http://velisthoughts.blogspot.com/2012/10/velis-auto-brightness-manual.html</string>
+</resources>
